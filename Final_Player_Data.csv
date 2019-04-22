@@ -1,0 +1,518 @@
+,Name,Age,Birthday,Height,Weight,Rank,Country Represent,Year Turned Pro,Wins,Losses,Handed,Backhand Style,Number of Coaches
+3,Milos Raonic,26,1990.12.27,196,216.0,24,"Podgorica, Montenegro",2008.0,288,132,Right-Handed,Two-Handed Backhand,0
+5,Stan Wawrinka,32,1985.03.28,183,179.0,9,"Lausanne, Switzerland",2002.0,465,262,Right-Handed,One-Handed Backhand,0
+7,Rafael Nadal,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,Two-Handed Backhand,2
+9,Kyle Edmund,22,1995.01.08,188,184.0,50,"Johannesburg, South Africa",2012.0,53,63,Right-Handed,Two-Handed Backhand,1
+11,Jordan Thompson,23,1994.04.20,183,161.0,94,"Sydney, Australia",2013.0,16,29,Right-Handed,Two-Handed Backhand,1
+13,Dominic Thiem,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,One-Handed Backhand,1
+15,Diego Schwartzman,25,1992.08.16,170,141.0,26,"Buenos Aires, Argentina",2010.0,70,76,Right-Handed,Two-Handed Backhand,1
+17,Viktor Troicki,31,1986.02.10,193,189.0,55,"Belgrade, Serbia",2006.0,282,250,Right-Handed,Two-Handed Backhand,1
+19,Jared Donaldson,21,1996.10.09,188,165.0,54,"Providence, RI, USA",2014.0,32,44,Right-Handed,Two-Handed Backhand,1
+21,Sam Groth,30,1987.10.19,193,220.0,247,"Narrandera, Australia",2006.0,38,62,Right-Handed,One-Handed Backhand,1
+23,Mischa Zverev,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+25,Lucas Pouille,23,1994.02.23,185,179.0,18,"Grande-Synthe, France",2012.0,85,66,Right-Handed,Two-Handed Backhand,1
+27,Nicolas Mahut,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,One-Handed Backhand,2
+29,David Ferrer,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+31,Alexandr Dolgopolov,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+33,Gilles Simon,32,1984.12.27,183,154.0,89,"Nice, France",2002.0,421,307,Right-Handed,Two-Handed Backhand,0
+35,Steve Johnson,27,1989.12.24,188,190.0,44,"Orange, CA, USA",2012.0,122,116,Right-Handed,Two-Handed Backhand,1
+37,Bernard Tomic,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+39,Gilles Muller,34,1983.05.09,193,196.0,25,"Luxembourg City, Luxembourg",2001.0,223,194,Left-Handed,Two-Handed Backhand,3
+41,Ernesto Escobedo,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+43,Pierre-Hugues Herbert,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+45,Stephane Robert,37,1980.05.17,185,170.0,218,"Montargis, France",2001.0,37,72,Right-Handed,Two-Handed Backhand,1
+47,Sam Querrey,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+49,Elias Ymer,21,1996.04.10,183,173.0,144,"Skara, Sweden",2014.0,13,30,Right-Handed,Two-Handed Backhand,1
+51,Yoshihito Nishioka,22,1995.09.27,170,141.0,166,"Mie, Japan",2014.0,22,27,Left-Handed,Two-Handed Backhand,1
+53,Alex de Minaur,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+55,Tim Smyczek,29,1987.12.30,175,160.0,130,"Milwaukee, WI, USA",2006.0,36,70,Right-Handed,Two-Handed Backhand,0
+57,John-Patrick Smith,28,1989.01.24,188,185.0,221,"Townsville, Australia",2012.0,5,15,Left-Handed,Two-Handed Backhand,1
+59,Frances Tiafoe,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+61,Ivan Dodig,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+63,Mikhail Kukushkin,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+65,Ryan Harrison,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+67,Go Soeda,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+69,Rajeev Ram,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,One-Handed Backhand,2
+71,Andrew Whittington,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+73,Bjorn Fratangelo,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+75,Stefan Kozlov,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+77,Tobias Kamke,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+78,Roberto Bautista Agut,26,1991.05.16,191,176.0,3,"Haskovo, Bulgaria",2008.0,257,161,Right-Handed,One-Handed Backhand,1
+79,Daniil Medvedev,27,1989.12.29,178,165.0,22,"Shimane, Japan",2007.0,331,155,Right-Handed,Two-Handed Backhand,2
+81,Benoit Paire,26,1990.12.27,196,216.0,24,"Podgorica, Montenegro",2008.0,288,132,Right-Handed,Two-Handed Backhand,0
+83,Dudi Sela,32,1985.03.28,183,179.0,9,"Lausanne, Switzerland",2002.0,465,262,Right-Handed,One-Handed Backhand,0
+85,Mikhail Youzhny,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,Two-Handed Backhand,2
+87,Albert Ramos-Vinolas,22,1995.01.08,188,184.0,50,"Johannesburg, South Africa",2012.0,53,63,Right-Handed,Two-Handed Backhand,1
+89,Aljaz Bedene,23,1994.04.20,183,161.0,94,"Sydney, Australia",2013.0,16,29,Right-Handed,Two-Handed Backhand,1
+91,Jozef Kovalik,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,One-Handed Backhand,1
+93,Marin Cilic,25,1992.08.16,170,141.0,26,"Buenos Aires, Argentina",2010.0,70,76,Right-Handed,Two-Handed Backhand,1
+95,Rogerio Dutra Silva,31,1986.02.10,193,189.0,55,"Belgrade, Serbia",2006.0,282,250,Right-Handed,Two-Handed Backhand,1
+97,Steve Darcis,21,1996.10.09,188,165.0,54,"Providence, RI, USA",2014.0,32,44,Right-Handed,Two-Handed Backhand,1
+99,Martin Klizan,30,1987.10.19,193,220.0,247,"Narrandera, Australia",2006.0,38,62,Right-Handed,One-Handed Backhand,1
+101,Yuki Bhambri,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+103,Renzo Olivo,23,1994.02.23,185,179.0,18,"Grande-Synthe, France",2012.0,85,66,Right-Handed,Two-Handed Backhand,1
+105,Yen-Hsun Lu,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,One-Handed Backhand,2
+107,Hyeon Chung,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+109,Konstantin Kravchuk,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+111,Borna Coric,32,1984.12.27,183,154.0,89,"Nice, France",2002.0,421,307,Right-Handed,Two-Handed Backhand,0
+113,Saketh Myneni,27,1989.12.24,188,190.0,44,"Orange, CA, USA",2012.0,122,116,Right-Handed,Two-Handed Backhand,1
+115,Radu Albot,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+117,Guillermo Garcia-Lopez,34,1983.05.09,193,196.0,25,"Luxembourg City, Luxembourg",2001.0,223,194,Left-Handed,Two-Handed Backhand,3
+119,Ramkumar Ramanathan,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+121,Nikola Mektic,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+123,Dusan Lajovic,37,1980.05.17,185,170.0,218,"Montargis, France",2001.0,37,72,Right-Handed,Two-Handed Backhand,1
+125,Gastao Elias,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+127,Thiago Monteiro,21,1996.04.10,183,173.0,144,"Skara, Sweden",2014.0,13,30,Right-Handed,Two-Handed Backhand,1
+129,Casper Ruud,22,1995.09.27,170,141.0,166,"Mie, Japan",2014.0,22,27,Left-Handed,Two-Handed Backhand,1
+131,Damir Dzumhur,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+133,Jurgen Melzer,29,1987.12.30,175,160.0,130,"Milwaukee, WI, USA",2006.0,36,70,Right-Handed,Two-Handed Backhand,0
+135,Nicolas Kicker,28,1989.01.24,188,185.0,221,"Townsville, Australia",2012.0,5,15,Left-Handed,Two-Handed Backhand,1
+137,Prajnesh Gunneswaran,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+139,Marco Trungelliti,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+141,Miljan Zekic,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+143,Sasi Kumar Mukund,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+145,Franko Skugor,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+147,Alessandro Bega,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,One-Handed Backhand,2
+149,Steven Diez,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+151,Hiroki Moriya,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+153,Federico Gaio,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+155,Marco Cecchinato,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+156,Novak Djokovic,26,1991.05.16,191,176.0,3,"Haskovo, Bulgaria",2008.0,257,161,Right-Handed,One-Handed Backhand,1
+157,Andy Murray,27,1989.12.29,178,165.0,22,"Shimane, Japan",2007.0,331,155,Right-Handed,Two-Handed Backhand,2
+159,Tomas Berdych,26,1990.12.27,196,216.0,24,"Podgorica, Montenegro",2008.0,288,132,Right-Handed,Two-Handed Backhand,0
+161,Fernando Verdasco,32,1985.03.28,183,179.0,9,"Lausanne, Switzerland",2002.0,465,262,Right-Handed,One-Handed Backhand,0
+163,Nicolas Almagro,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,Two-Handed Backhand,2
+165,Radek Stepanek,22,1995.01.08,188,184.0,50,"Johannesburg, South Africa",2012.0,53,63,Right-Handed,Two-Handed Backhand,1
+167,Jo-Wilfried Tsonga,23,1994.04.20,183,161.0,94,"Sydney, Australia",2013.0,16,29,Right-Handed,Two-Handed Backhand,1
+169,Ivo Karlovic,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,One-Handed Backhand,1
+171,Gerald Melzer,25,1992.08.16,170,141.0,26,"Buenos Aires, Argentina",2010.0,70,76,Right-Handed,Two-Handed Backhand,1
+173,Horacio Zeballos,31,1986.02.10,193,189.0,55,"Belgrade, Serbia",2006.0,282,250,Right-Handed,Two-Handed Backhand,1
+175,Jiri Vesely,21,1996.10.09,188,165.0,54,"Providence, RI, USA",2014.0,32,44,Right-Handed,Two-Handed Backhand,1
+177,David Goffin,30,1987.10.19,193,220.0,247,"Narrandera, Australia",2006.0,38,62,Right-Handed,One-Handed Backhand,1
+179,Dustin Brown,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+181,Karen Khachanov,23,1994.02.23,185,179.0,18,"Grande-Synthe, France",2012.0,85,66,Right-Handed,Two-Handed Backhand,1
+183,Philipp Kohlschreiber,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,One-Handed Backhand,2
+185,Arthur De Greef,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+187,Jeremy Chardy,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+189,Jan-Lennard Struff,32,1984.12.27,183,154.0,89,"Nice, France",2002.0,421,307,Right-Handed,Two-Handed Backhand,0
+191,Alessandro Giannessi,27,1989.12.24,188,190.0,44,"Orange, CA, USA",2012.0,122,116,Right-Handed,Two-Handed Backhand,1
+193,Robin Haase,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+195,Andrey Kuznetsov,34,1983.05.09,193,196.0,25,"Luxembourg City, Luxembourg",2001.0,223,194,Left-Handed,Two-Handed Backhand,3
+197,Illya Marchenko,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+199,Malek Jaziri,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+201,Marcos Baghdatis,37,1980.05.17,185,170.0,218,"Montargis, France",2001.0,37,72,Right-Handed,Two-Handed Backhand,1
+203,Paolo Lorenzi,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+205,Facundo Bagnis,21,1996.04.10,183,173.0,144,"Skara, Sweden",2014.0,13,30,Right-Handed,Two-Handed Backhand,1
+207,Mohamed Safwat,22,1995.09.27,170,141.0,166,"Mie, Japan",2014.0,22,27,Left-Handed,Two-Handed Backhand,1
+209,Mubarak Shannan Zayid,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+211,Paul-Henri Mathieu,29,1987.12.30,175,160.0,130,"Milwaukee, WI, USA",2006.0,36,70,Right-Handed,Two-Handed Backhand,0
+213,Vasek Pospisil,28,1989.01.24,188,185.0,221,"Townsville, Australia",2012.0,5,15,Left-Handed,Two-Handed Backhand,1
+215,Anil Yuksel,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+217,Florian Mayer,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+219,Nikoloz Basilashvili,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+221,Enrique Lopez Perez,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+223,Mirza Basic,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+225,Vincent Millot,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,One-Handed Backhand,2
+227,Luca Vanni,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+229,Lorenzo Giustino,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+231,Marco Chiudinelli,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+233,Thomas Fabbiano,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+235,Evgeny Donskoy,21,1996.02.11,198,179.0,65,"Moscow, Russia",2014.0,29,31,Right-Handed,Two-Handed Backhand,2
+237,Taro Daniel,28,1989.05.08,196,176.0,41,"Avignon, France",2007.0,153,169,Right-Handed,Two-Handed Backhand,1
+239,Mousa Shanan Zayed,32,1985.04.04,175,144.0,67,"Kiryat Shmonna, Israel",2002.0,136,184,Right-Handed,One-Handed Backhand,1
+241,Jabor Al-Mutawa,35,1982.06.25,183,160.0,84,"Moscow, Russia",1999.0,492,398,Right-Handed,One-Handed Backhand,1
+243,Daniel Evans,27,1989.12.29,178,165.0,22,"Shimane, Japan",2007.0,331,155,Right-Handed,Two-Handed Backhand,2
+251,Pablo Cuevas,22,1995.01.08,188,184.0,50,"Johannesburg, South Africa",2012.0,53,63,Right-Handed,Two-Handed Backhand,1
+255,Pablo Carreno Busta,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,One-Handed Backhand,1
+267,Matthew Barton,23,1994.02.23,185,179.0,18,"Grande-Synthe, France",2012.0,85,66,Right-Handed,Two-Handed Backhand,1
+269,Marcel Granollers,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,One-Handed Backhand,2
+273,Fabio Fognini,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+279,Santiago Giraldo,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+285,Christopher O'Connell,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+291,Thomaz Bellucci,21,1996.04.10,183,173.0,144,"Skara, Sweden",2014.0,13,30,Right-Handed,Two-Handed Backhand,1
+301,Mathias Bourgue,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+320,Jack Sock,26,1991.05.16,191,176.0,3,"Haskovo, Bulgaria",2008.0,257,161,Right-Handed,One-Handed Backhand,1
+321,Joao Sousa,27,1989.12.29,178,165.0,22,"Shimane, Japan",2007.0,331,155,Right-Handed,Two-Handed Backhand,2
+327,John Isner,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,Two-Handed Backhand,2
+341,Feliciano Lopez,30,1987.10.19,193,220.0,247,"Narrandera, Australia",2006.0,38,62,Right-Handed,One-Handed Backhand,1
+347,Brydan Klein,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,One-Handed Backhand,2
+349,Rubin Statham,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+353,Michael Venus,32,1984.12.27,183,154.0,89,"Nice, France",2002.0,421,307,Right-Handed,Two-Handed Backhand,0
+357,Adrian Mannarino,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+359,Michael Mmoh,34,1983.05.09,193,196.0,25,"Luxembourg City, Luxembourg",2001.0,223,194,Left-Handed,Two-Handed Backhand,3
+361,Artem Sitak,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+363,Finn Tearney,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+379,Jerzy Janowicz,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+381,Cameron Norrie,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+383,Marcin Matkowski,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+385,Treat Huey,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+387,Greg Jones,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+389,Marcelo Demoliner,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,One-Handed Backhand,2
+391,Krisjanis Stabins,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+393,Masato Shiga,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+395,Rhett Purcell,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+397,Aisam-Ul-Haq Qureshi,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+398,Roger Federer,26,1991.05.16,191,176.0,3,"Haskovo, Bulgaria",2008.0,257,161,Right-Handed,One-Handed Backhand,1
+417,Andreas Seppi,21,1996.10.09,188,165.0,54,"Providence, RI, USA",2014.0,32,44,Right-Handed,Two-Handed Backhand,1
+421,Gael Monfils,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+427,Denis Istomin,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+435,Lukas Lacko,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+441,Alexander Zverev,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+451,Richard Gasquet,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+461,Andrey Rublev,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+487,Nick Kyrgios,28,1989.07.18,183,159.0,49,"Ljubljana, Slovenia",2008.0,70,87,Right-Handed,Two-Handed Backhand,1
+491,Noah Rubin,29,1988.09.28,198,196.0,6,"Medjugorje, Bosnia-Herzegovina",2005.0,435,232,Right-Handed,Two-Handed Backhand,2
+493,Carlos Berlocq,33,1984.02.05,178,161.0,90,"Sao Paulo, Brazil",2003.0,19,23,Right-Handed,One-Handed Backhand,2
+507,Victor Estrella Burgos,32,1985.02.23,191,176.0,275,"Moscow, Russia",2004.0,10,28,Right-Handed,Two-Handed Backhand,1
+515,Donald Young,34,1983.06.04,185,176.0,70,"La Roda (Albacete), Spain",2002.0,275,321,Right-Handed,One-Handed Backhand,1
+519,Alexander Bublik,28,1988.12.24,183,176.0,32,"Zagreb, Croatia",2006.0,38,38,Right-Handed,Two-Handed Backhand,1
+545,Reilly Opelka,26,1991.01.11,173,150.0,340,"Cernusco sul Naviglio, Italy",,0,1,Right-Handed,Two-Handed Backhand,1
+549,Guido Pella,27,1990.10.16,170,143.0,343,"Tokyo, Japan",,2,9,Right-Handed,Two-Handed Backhand,1
+559,Blake Mott,34,1983.11.15,185,192.0,35,"Madrid, Spain",2001.0,487,361,Left-Handed,Two-Handed Backhand,1
+565,Omar Jasika,32,1985.04.17,188,200.0,15,"Le Mans, France",2004.0,426,195,Right-Handed,Two-Handed Backhand,1
+583,Peter Polansky,25,1992.03.27,183,161.0,178,"Uccle, Belgium",2010.0,3,6,Right-Handed,Two-Handed Backhand,1
+585,Quentin Halys,30,1987.02.12,188,165.0,78,"Pau, France",2005.0,224,230,Right-Handed,Two-Handed Backhand,2
+619,Federico Delbonis,26,1991.06.03,0,168.0,311,Madrid,,0,0,none,none,1
+625,James Duckworth,32,1985.06.04,198,207.0,240,"Castel del Piano, Italy",,5,16,Right-Handed,Two-Handed Backhand,1
+627,Taylor Fritz,26,1991.09.10,183,176.0,258,"Naples, Italy",2007.0,0,3,Right-Handed,Two-Handed Backhand,1
+629,Alex Bolt,36,1981.09.10,185,187.0,421,"Basel, Switzerland",2000.0,52,98,Right-Handed,Two-Handed Backhand,1
+631,Tommy Haas,28,1989.05.26,173,152.0,73,"Grottaglie, Italy",2005.0,9,28,Right-Handed,Two-Handed Backhand,2
+641,Dmitry Tursunov,27,1990.05.23,175,165.0,134,"Birmingham, England",2006.0,34,46,Right-Handed,One-Handed Backhand,1
+647,Adam Pavlasek,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,One-Handed Backhand,1
+659,Denis Kudla,35,1981.12.15,183,169.0,43,"Rome, Italy",2003.0,97,154,Right-Handed,Two-Handed Backhand,1
+669,Julien Benneteau,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+673,Andre Ghem,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+675,Duckhee Lee,28,1989.07.11,191,176.0,143,"Bratislava, Slovakia",2007.0,117,122,Left-Handed,Two-Handed Backhand,1
+677,Di Wu,30,1987.11.27,188,166.0,229,"Pereira, Colombia",2004.0,165,198,Right-Handed,Two-Handed Backhand,1
+679,James McGee,22,1995.01.08,188,184.0,50,"Johannesburg, South Africa",2012.0,53,63,Right-Handed,Two-Handed Backhand,1
+683,Jan Satral,23,1994.06.03,183,172.0,393,"Sydney, Australia",,0,2,Right-Handed,One-Handed Backhand,2
+685,Blaz Kavcic,23,1994.05.31,183,172.0,124,"Fortaleza, Brazil",2011.0,19,31,Left-Handed,Two-Handed Backhand,2
+687,Yannik Reuter,34,1983.10.05,191,180.0,69,"Bayreuth, Germany",2001.0,241,246,Right-Handed,Two-Handed Backhand,1
+689,Yuichi Sugita,29,1987.12.30,188,181.0,113,"Tiete, Brazil",2005.0,199,211,Left-Handed,Two-Handed Backhand,1
+691,Stefanos Tsitsipas,25,1992.02.23,185,174.0,59,"Tbilisi, Georgia",2008.0,37,46,Right-Handed,Two-Handed Backhand,2
+693,Maximo Gonzalez,32,1985.08.21,183,190.0,151,"Murcia, Spain",2003.0,397,277,Right-Handed,One-Handed Backhand,0
+695,Matthew Ebden,25,1992.02.23,185,174.0,59,"Tbilisi, Georgia",2008.0,37,46,Right-Handed,Two-Handed Backhand,2
+701,Darian King,26,1991.06.03,0,168.0,311,Madrid,,0,0,none,none,1
+703,Marcelo Arevalo,35,1982.01.12,185,163.0,249,"Strasbourg, France",1999.0,276,306,Right-Handed,Two-Handed Backhand,1
+705,Tatsuma Ito,30,1987.09.08,185,181.0,198,"Dneprodzerzhinsk, Ukraine",2006.0,61,83,Right-Handed,Two-Handed Backhand,1
+711,Guilherme Clezar,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+713,Adrian Menendez-Maceiras,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+717,Akira Santillan,33,1984.02.05,178,161.0,90,"Sao Paulo, Brazil",2003.0,19,23,Right-Handed,One-Handed Backhand,2
+719,Roberto Carballes Baena,28,1989.03.30,185,163.0,57,"Guimaraes, Portugal",2008.0,142,157,Right-Handed,Two-Handed Backhand,1
+721,Pedja Krstin,27,1989.12.24,188,190.0,44,"Orange, CA, USA",2012.0,122,116,Right-Handed,Two-Handed Backhand,1
+723,Matthias Bachinger,32,1985.06.17,178,181.0,103,"Limassol, Cyprus",2003.0,333,255,Right-Handed,Two-Handed Backhand,1
+725,Kimmer Coppejans,32,1985.04.26,208,238.0,17,"Greensboro, NC, USA",2007.0,359,220,Right-Handed,Two-Handed Backhand,2
+727,Laslo Djere,30,1987.02.12,188,165.0,78,"Pau, France",2005.0,224,230,Right-Handed,Two-Handed Backhand,2
+729,Yuya Kibi,24,1993.07.10,198,203.0,62,"Pribram, Czech Republic",2009.0,85,102,Left-Handed,Two-Handed Backhand,1
+731,Bradley Mousley,30,1987.04.06,191,157.0,42,"The Hague, The Netherlands",2005.0,190,216,Right-Handed,Two-Handed Backhand,1
+733,Uladzimir Ignatik,33,1984.01.20,185,180.0,98,"Bizerte, Tunisia",2003.0,68,94,Right-Handed,Two-Handed Backhand,1
+735,Mitchell Krueger,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+737,Jonathan Eysseric,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+739,Yasutaka Uchiyama,36,1981.09.20,185,162.0,36,"Toledo, Spain",1997.0,452,409,Left-Handed,One-Handed Backhand,1
+741,Kenny De Schepper,34,1983.08.14,180,163.0,71,"Taipei, Chinese Taipei",2001.0,161,222,Right-Handed,Two-Handed Backhand,1
+743,Peter Gojowczyk,32,1984.12.08,196,172.0,125,"Celle, Germany",2002.0,60,93,Right-Handed,Two-Handed Backhand,0
+745,Alexander Sarkissian,27,1989.12.31,188,183.0,134,"Perth, Australia",2007.0,1,10,Right-Handed,Two-Handed Backhand,0
+749,Sekou Bangoura,29,1988.01.17,188,177.0,23,"Barcelona, Spain",2007.0,157,178,Left-Handed,Two-Handed Backhand,2
+755,Marc Polmans,29,1988.06.29,180,154.0,28,"Soisy-sous-Montmorency, France",2004.0,136,163,Left-Handed,Two-Handed Backhand,1
+759,Grega Zemlja,31,1986.02.08,185,183.0,55,"Orenbourg, Russia",2001.0,81,77,Right-Handed,Two-Handed Backhand,1
+763,Benjamin Becker,34,1983.06.04,185,176.0,70,"La Roda (Albacete), Spain",2002.0,275,321,Right-Handed,Two-Handed Backhand,1
+765,Joao Souza,25,1992.08.16,170,141.0,26,"Buenos Aires, Argentina",2010.0,70,76,Right-Handed,Two-Handed Backhand,1
+767,Jeremy Jahn,27,1990.02.27,183,180.0,162,"Rosario, Argentina",2008.0,20,22,Left-Handed,Two-Handed Backhand,2
+769,Dmitry Popko,21,1996.05.21,198,194.0,45,"Moscow, Russia",2013.0,43,46,Right-Handed,Two-Handed Backhand,0
+773,Aldin Setkic,30,1987.04.25,180,176.0,250,"Westminster, Great Britain",2002.0,1,10,Right-Handed,Two-Handed Backhand,1
+775,Dennis Novikov,26,1991.03.17,0,,303,,,1,6,none,Two-Handed Backhand,0
+777,Marius Copil,27,1990.11.13,203,207.0,123,"Lodz, Poland",2007.0,101,95,Right-Handed,Two-Handed Backhand,0
+783,Luke Saville,32,1985.08.28,178,180.0,65,"Washington, DC, USA",2008.0,179,149,Left-Handed,Two-Handed Backhand,2
+787,Ilya Ivashka,28,1989.01.18,191,189.0,34,"Caxias do Sul, Brazil",,57,69,Right-Handed,Two-Handed Backhand,2
+789,Maximilian Marterer,28,1989.06.28,0,,1604,,,0,0,none,Two-Handed Backhand,0
+791,Tristan Lamasine,26,1991.08.08,0,,644,,,0,0,none,One-Handed Backhand,0
+793,Henri Laaksonen,21,1996.02.06,193,187.0,956,"Gisborne, New Zealand",,0,0,Right-Handed,Two-Handed Backhand,0
+795,Andrej Martin,37,1980.03.17,183,172.0,31,"Lahore, Pakistan",1998.0,296,240,Right-Handed,One-Handed Backhand,1
+797,Jordi Samper-Montana,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,One-Handed Backhand,2
+799,Nikola Milojevic,32,1985.03.28,183,179.0,9,"Lausanne, Switzerland",2002.0,465,262,Right-Handed,Two-Handed Backhand,0
+801,Norbert Gombos,26,1991.05.16,191,176.0,3,"Haskovo, Bulgaria",2008.0,257,161,Right-Handed,Two-Handed Backhand,1
+803,Teymuraz Gabashvili,26,1990.12.27,196,216.0,24,"Podgorica, Montenegro",2008.0,288,132,Right-Handed,Two-Handed Backhand,0
+805,Ruben Bemelmans,32,1985.04.17,188,200.0,15,"Le Mans, France",2004.0,426,195,Right-Handed,Two-Handed Backhand,1
+807,Riccardo Bellotti,26,1990.12.07,180,150.0,7,"Rocourt, Belgium",2009.0,201,128,Right-Handed,Two-Handed Backhand,1
+809,Bradley Klahn,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+811,Marinko Matosevic,30,1987.05.15,191,185.0,16,"Glasgow, Scotland",2005.0,655,184,Right-Handed,Two-Handed Backhand,1
+813,Scott Jones,29,1988.04.14,183,168.0,20,"Castellon de la Plana, Spain",2005.0,212,130,Right-Handed,Two-Handed Backhand,2
+819,Kristijan Mesaros,31,1986.09.01,193,177.0,46,"Paris, France",2004.0,411,232,Right-Handed,One-Handed Backhand,1
+821,Tennys Sandgren,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,Two-Handed Backhand,1
+823,Amir Weintraub,27,1990.05.23,175,165.0,134,"Birmingham, England",2006.0,34,46,Right-Handed,Two-Handed Backhand,1
+825,Andrey Golubev,31,1986.09.07,188,194.0,63,"Orenburg, Russia",2004.0,211,227,Right-Handed,Two-Handed Backhand,1
+833,Daniel Masur,30,1987.11.03,185,188.0,92,"Piestany, Slovakia",2005.0,85,128,Right-Handed,Two-Handed Backhand,1
+835,Matteo Donati,34,1983.10.16,178,154.0,29,"Augsburg, Germany",2001.0,423,322,Right-Handed,Two-Handed Backhand,1
+837,Brian Baker,28,1989.05.08,196,176.0,41,"Avignon, France",2007.0,153,169,Right-Handed,Two-Handed Backhand,1
+839,Jose Hernandez-Fernandez,20,1997.04.20,198,189.0,4,"Hamburg, Germany",2013.0,117,70,Right-Handed,One-Handed Backhand,3
+841,Zdenek Kolar,32,1985.09.17,196,200.0,19,"Valasske Mezirici, CZE",2002.0,616,321,Right-Handed,Two-Handed Backhand,1
+843,Matija Pecotic,38,1979.02.28,211,230.0,80,"Zagreb, Croatia",2000.0,346,307,Right-Handed,Two-Handed Backhand,1
+845,Joris De Loore,25,1992.09.24,191,185.0,8,"Lincoln, NE, USA",2011.0,153,103,Right-Handed,One-Handed Backhand,1
+847,Daniel Brands,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+849,Harry Bourchier,31,1986.06.18,185,165.0,31,"Beziers, France",2002.0,486,280,Right-Handed,Two-Handed Backhand,1
+851,Alexander Kudryavtsev,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,One-Handed Backhand,1
+853,Marton Fucsovics,26,1991.07.12,188,172.0,10,"Gijon, Spain",2009.0,111,110,Right-Handed,Two-Handed Backhand,2
+855,Stefano Napolitano,33,1984.03.13,178,169.0,77,"Liege, Belgium",2003.0,111,121,Right-Handed,Two-Handed Backhand,1
+859,Cedrik-Marcel Stebe,20,1997.10.20,188,150.0,39,"Moscow, Russia",2014.0,33,37,Right-Handed,Two-Handed Backhand,2
+861,Max Purcell,30,1987.05.22,188,170.0,12,"Belgrade, Serbia",2003.0,783,163,Right-Handed,Two-Handed Backhand,1
+863,Pedro Sousa,34,1983.05.09,193,196.0,25,"Luxembourg City, Luxembourg",2001.0,223,194,Left-Handed,Two-Handed Backhand,3
+867,Agustin Velotti,30,1987.02.12,188,165.0,78,"Pau, France",2005.0,224,230,Right-Handed,Two-Handed Backhand,2
+869,Gavin Van Peperzeel,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+871,Marko Tepavac,29,1988.09.28,198,196.0,6,"Medjugorje, Bosnia-Herzegovina",2005.0,435,232,Right-Handed,Two-Handed Backhand,2
+875,Maverick Banes,32,1985.06.17,178,181.0,103,"Limassol, Cyprus",2003.0,333,255,Right-Handed,Two-Handed Backhand,1
+913,Gregoire Barrere,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+919,Calvin Hemery ,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+939,Fabrice Martin,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+941,Corentin Moutet,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,One-Handed Backhand,2
+943,Aslan Karatsev,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+945,Albert Montanes,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+949,Divij Sharan,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+971,Alejandro Falla,31,1986.02.10,193,189.0,55,"Belgrade, Serbia",2006.0,282,250,Right-Handed,One-Handed Backhand,1
+975,Janko Tipsarevic,30,1987.10.19,193,220.0,247,"Narrandera, Australia",2006.0,38,62,Right-Handed,Two-Handed Backhand,1
+979,Giovanni Lapentti,23,1994.02.23,185,179.0,18,"Grande-Synthe, France",2012.0,85,66,Right-Handed,Two-Handed Backhand,1
+991,Emilio Gomez,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+1005,Guido Andreozzi,22,1995.09.27,170,141.0,166,"Mie, Japan",2014.0,22,27,Left-Handed,Two-Handed Backhand,1
+1007,Daniel Gimeno-Traver,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+1013,Eduardo Struvay,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+1015,Caio Zampieri,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+1017,Andres Molteni,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+1019,Ruben Ramirez Hidalgo,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,One-Handed Backhand,2
+1021,Daniel Elahi Galan,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+1023,Camilo Ponce,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+1027,Juan Pablo Paz,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+1031,Andrea Collarini,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+1067,Cem Ilkel,27,1989.12.24,188,190.0,44,"Orange, CA, USA",2012.0,122,116,Right-Handed,Two-Handed Backhand,1
+1069,Alexandar Lazarov,25,1992.10.21,196,201.0,142,"Stuttgart, Germany",2008.0,169,158,Right-Handed,Two-Handed Backhand,1
+1077,Dimitar Kuzmanov,37,1980.05.17,185,170.0,218,"Montargis, France",2001.0,37,72,Right-Handed,Two-Handed Backhand,1
+1091,Filip Krajinovic,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+1099,Adrian Andreev,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+1101,Alexandre Sidorenko,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+1107,Sarp Agabigun,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+1109,Yannick Mertens,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+1133,Leonardo Mayer,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,One-Handed Backhand,2
+1139,Tommy Robredo,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+1173,Federico Coria,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+1175,Simone Bolelli,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,One-Handed Backhand,2
+1181,Manuel Pena Lopez,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+1229,Kevin Anderson,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+1251,Jeevan Nedunchezhiyan,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+1257,Andrew Watson,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+1261,Scott Lipsky,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+1265,Tommy Paul,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+1325,Tallon Griekspoor,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+1333,Botic Van de Zandschulp,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+1335,Ernests Gulbis,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+1343,Sergiy Stakhovsky,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+1345,Niels Lootsma,21,1996.02.11,198,179.0,65,"Moscow, Russia",2014.0,29,31,Right-Handed,One-Handed Backhand,2
+1353,Juan Martin del Potro,26,1990.12.27,196,216.0,24,"Podgorica, Montenegro",2008.0,288,132,Right-Handed,Two-Handed Backhand,0
+1421,Marcos Giron,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+1423,Peter Nagy,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+1425,Boris Kozlov,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+1433,Philip Bester,32,1985.04.04,175,144.0,67,"Kiryat Shmonna, Israel",2002.0,136,184,Right-Handed,Two-Handed Backhand,1
+1477,Denis Shapovalov,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+1495,Lukas Rosol,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+1503,Maxime Hamou,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+1509,Maxime Chazal,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+1591,Christian Garin,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+1595,Felipe Meligeni Rodrigues Alves,28,1989.05.08,196,176.0,41,"Avignon, France",2007.0,153,169,Right-Handed,One-Handed Backhand,1
+1597,Joao Pedro Sorgi,32,1985.04.04,175,144.0,67,"Kiryat Shmonna, Israel",2002.0,136,184,Right-Handed,Two-Handed Backhand,1
+1599,Orlando Luz,35,1982.06.25,183,160.0,84,"Moscow, Russia",1999.0,492,398,Right-Handed,Two-Handed Backhand,1
+1647,Lucas Gomez,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+1673,Alan Fernando Rubio Fierros,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+1679,Kevin Jack Carpenter,21,1996.02.11,198,179.0,65,"Moscow, Russia",2014.0,29,31,Right-Handed,One-Handed Backhand,2
+1685,Manuel Sanchez,35,1982.06.25,183,160.0,84,"Moscow, Russia",1999.0,492,398,Right-Handed,Two-Handed Backhand,1
+1745,Omar  Alawadhi,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+1757,Alexei Popyrin,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+1819,Inigo Cervantes,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+1839,Gustavo Teisen Pereira,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+2019,Juan Monaco,38,1979.02.28,211,230.0,80,"Zagreb, Croatia",2000.0,346,307,Right-Handed,One-Handed Backhand,1
+2259,Mikael Ymer,26,1991.01.11,173,150.0,340,"Cernusco sul Naviglio, Italy",,0,1,Right-Handed,Two-Handed Backhand,1
+2287,Christian Harrison,24,1993.07.10,198,203.0,62,"Pribram, Czech Republic",2009.0,85,102,Left-Handed,Two-Handed Backhand,1
+2319,Miomir Kecmanovic,27,1990.09.19,183,183.0,211,"El Mansoura, Egypt",,4,14,Right-Handed,Two-Handed Backhand,1
+2341,Yibing Wu,26,1991.09.10,183,176.0,258,"Naples, Italy",2007.0,0,3,Right-Handed,Two-Handed Backhand,1
+2345,Vasil Kirkov,28,1989.05.26,173,152.0,73,"Grottaglie, Italy",2005.0,9,28,Right-Handed,Two-Handed Backhand,2
+2363,Nicola Kuhn,31,1986.01.01,180,176.0,32,"Concordia, Argentina",2004.0,178,155,Right-Handed,Two-Handed Backhand,2
+2475,Gianluigi Quinzi,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,One-Handed Backhand,2
+2479,Reda El Amrani,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,Two-Handed Backhand,2
+2481,Amine Ahouda,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,Two-Handed Backhand,1
+2513,Alexander Ward,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+2515,Taha Tifnouti,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+2521,Ayoub Chakrouni,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+2529,Alexander Zhurbin,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+2655,Lucas Catarina,27,1990.11.24,183,168.0,115,"Lourinhã, Portugal",2008.0,28,47,Right-Handed,Two-Handed Backhand,1
+2679,Hugo Nys,26,1991.03.17,0,,303,,,1,6,none,Two-Handed Backhand,0
+2681,Florent Diep,27,1990.10.16,170,143.0,343,"Tokyo, Japan",,2,9,Right-Handed,Two-Handed Backhand,1
+2783,Alejandro Davidovich Fokina,25,1992.07.04,183,170.0,116,"New Delhi, India",2008.0,22,19,Right-Handed,Two-Handed Backhand,1
+2797,Jaume Munar,28,1989.11.11,175,152.0,87,"Chisinau, Moldova",2008.0,30,42,Right-Handed,Two-Handed Backhand,1
+2803,Oriol Roca Batalla,28,1988.12.24,183,176.0,32,"Zagreb, Croatia",2006.0,38,38,Right-Handed,Two-Handed Backhand,1
+2873,Attila Balazs,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+2881,Zsombor Piros,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+2911,Frederico Ferreira Silva,30,1987.10.19,193,220.0,247,"Narrandera, Australia",2006.0,38,62,Right-Handed,Two-Handed Backhand,1
+2917,Joao Domingues,35,1982.01.21,191,176.0,104,"Angers, France",2000.0,171,213,Right-Handed,Two-Handed Backhand,2
+2929,Salvatore Caruso,34,1983.05.09,193,196.0,25,"Luxembourg City, Luxembourg",2001.0,223,194,Left-Handed,Two-Handed Backhand,3
+2951,Goncalo Oliveira,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+2953,Nicolas Jarry,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+2967,Joao Monteiro,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+3025,Laurynas Grigelis,28,1989.01.24,188,185.0,221,"Townsville, Australia",2012.0,5,15,Left-Handed,Two-Handed Backhand,1
+3027,Alexey Vatutin,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+3035,Marc Sieber,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+3039,Altug Celikbilek,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+3045,Pere Riba,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+3053,Yannick Hanfmann,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,Two-Handed Backhand,2
+3115,Yannick Maden,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+3117,Charly Zick,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+3257,Carlos Taberner,36,1981.05.22,183,178.0,189,"Vienna, Austria",1999.0,348,334,Left-Handed,Two-Handed Backhand,1
+3263,Daniel Munoz de la Nava,27,1990.01.31,180,172.0,222,"Santiago del Estero, Argentina",2008.0,5,8,Right-Handed,Two-Handed Backhand,2
+3359,Gianluca Mager,32,1985.04.04,175,144.0,67,"Kiryat Shmonna, Israel",2002.0,136,184,Right-Handed,Two-Handed Backhand,1
+3369,Matteo Berrettini,29,1988.09.28,198,196.0,6,"Medjugorje, Bosnia-Herzegovina",2005.0,435,232,Right-Handed,One-Handed Backhand,2
+3397,Andrea Arnaboldi,28,1988.12.24,183,176.0,32,"Zagreb, Croatia",2006.0,38,38,Right-Handed,Two-Handed Backhand,1
+3413,Lorenzo Sonego,28,1989.11.12,188,176.0,256,"Chennai, India",,1,1,Left-Handed,Two-Handed Backhand,1
+3421,Andrea Pellegrino,30,1987.09.20,198,212.0,290,"Sibenik, Croatia",,6,18,Right-Handed,none,1
+3461,Daniel Altmaier,32,1984.12.27,183,154.0,89,"Nice, France",2002.0,421,307,Right-Handed,Two-Handed Backhand,0
+3471,Roberto Marcora,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+3483,Tim Puetz,29,1987.12.30,175,160.0,130,"Milwaukee, WI, USA",2006.0,36,70,Right-Handed,Two-Handed Backhand,0
+3487,Petr Michnev,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+3491,Louis Wessels,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+3495,Raphael Baltensperger,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+3553,Thanasi Kokkinakis,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+3569,Nils Langer,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+3571,Michael Linzer,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,One-Handed Backhand,2
+3573,Alexandar Lazov,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+3575,Tomislav Brkic,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+3577,Elliot Benchetrit,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+3579,Alexandre Muller,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+3677,Benjamin Bonzi,29,1988.09.28,198,196.0,6,"Medjugorje, Bosnia-Herzegovina",2005.0,435,232,Right-Handed,One-Handed Backhand,2
+3743,John Millman,32,1985.09.17,196,200.0,19,"Valasske Mezirici, CZE",2002.0,616,321,Right-Handed,One-Handed Backhand,1
+3811,Laurent Lokoli,32,1985.06.04,198,207.0,240,"Castel del Piano, Italy",,5,16,Right-Handed,Two-Handed Backhand,1
+3819,Ricardas Berankis,27,1990.05.09,185,163.0,72,"Moscow, Russia",2007.0,36,79,Right-Handed,none,1
+3849,Maxime Janvier,23,1994.04.20,183,161.0,94,"Sydney, Australia",2013.0,16,29,Right-Handed,Two-Handed Backhand,1
+3861,Roberto Quiroz,28,1989.07.11,191,176.0,143,"Bratislava, Slovakia",2007.0,117,122,Left-Handed,Two-Handed Backhand,1
+3869,Oscar Otte,23,1994.06.03,183,172.0,393,"Sydney, Australia",,0,2,Right-Handed,Two-Handed Backhand,2
+3887,Alejandro Gonzalez,26,1991.06.03,0,168.0,311,Madrid,,0,0,none,Two-Handed Backhand,1
+3913,Mackenzie McDonald,30,1987.02.12,188,165.0,78,"Pau, France",2005.0,224,230,Right-Handed,Two-Handed Backhand,2
+3917,Ricardo Ojeda Lara,30,1987.04.06,191,157.0,42,"The Hague, The Netherlands",2005.0,190,216,Right-Handed,Two-Handed Backhand,1
+3933,Gleb Sakharov,30,1987.04.25,180,176.0,250,"Westminster, Great Britain",2002.0,1,10,Right-Handed,Two-Handed Backhand,1
+3943,Jason Jung,19,1998.01.10,185,187.0,175,"Riyadh, Saudi Arabia",2016.0,0,7,Right-Handed,Two-Handed Backhand,1
+3963,Constant Lestienne,27,1990.11.13,203,207.0,123,"Lodz, Poland",2007.0,101,95,Right-Handed,Two-Handed Backhand,0
+3995,Stefano Travaglia,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+3999,Blaz Rola,29,1988.04.14,183,168.0,20,"Castellon de la Plana, Spain",2005.0,212,130,Right-Handed,One-Handed Backhand,2
+4007,Ti Chen,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,Two-Handed Backhand,1
+4021,Geoffrey Blancaneaux,34,1983.10.16,178,154.0,29,"Augsburg, Germany",2001.0,423,322,Right-Handed,One-Handed Backhand,1
+4027,Igor Sijsling,32,1985.09.17,196,200.0,19,"Valasske Mezirici, CZE",2002.0,616,321,Right-Handed,One-Handed Backhand,1
+4033,Vaclav Safranek,35,1982.04.02,175,160.0,37,"Javea, Spain",2000.0,717,353,Right-Handed,One-Handed Backhand,1
+4127,Matwe Middelkoop,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+4133,Egor Gerasimov,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,Two-Handed Backhand,0
+4137,Soonwoo Kwon,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,One-Handed Backhand,2
+4351,James Ward,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+4353,Liam Broady,21,1996.04.10,183,173.0,144,"Skara, Sweden",2014.0,13,30,Right-Handed,Two-Handed Backhand,1
+4381,Edward Corrie,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,One-Handed Backhand,2
+4413,Marsel Ilhan,30,1987.08.22,191,194.0,33,"Moscow, Russia",2005.0,110,155,Left-Handed,Two-Handed Backhand,2
+4439,Kamil Majchrzak,21,1996.04.10,183,173.0,144,"Skara, Sweden",2014.0,13,30,Right-Handed,Two-Handed Backhand,1
+4443,Lloyd Harris,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+4453,Andrey Yakovlev,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+4459,Roman Jebavy,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+4463,Danilo Petrovic,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+4527,Luke Bambridge,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+4533,Takanyi Garanganga,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+4543,Marek Jaloviec,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,One-Handed Backhand,2
+4545,Michal Konecny,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+4593,Sebastian Ofner,30,1987.10.07,198,210.0,13,"San Francisco, CA, USA",2006.0,321,257,Right-Handed,Two-Handed Backhand,1
+4707,Andreas Haider-Maurer,34,1983.11.15,185,192.0,35,"Madrid, Spain",2001.0,487,361,Left-Handed,One-Handed Backhand,1
+4807,Marcus Willis,35,1981.12.15,183,169.0,43,"Rome, Italy",2003.0,97,154,Right-Handed,Two-Handed Backhand,1
+4825,Jay Clarke,30,1987.11.27,188,166.0,229,"Pereira, Colombia",2004.0,165,198,Right-Handed,Two-Handed Backhand,1
+4849,Aleksandr Nedovyesov,26,1991.06.03,0,168.0,311,Madrid,,0,0,none,Two-Handed Backhand,1
+4945,Ryan James Storrie,31,1986.06.03,185,188.0,1,"Manacor, Mallorca, Spain",2001.0,873,185,Left-Handed,Two-Handed Backhand,2
+4971,Frank Dancevic,27,1990.05.23,175,165.0,134,"Birmingham, England",2006.0,34,46,Right-Handed,One-Handed Backhand,1
+4991,Lloyd Glasspool,38,1979.02.28,211,230.0,80,"Zagreb, Croatia",2000.0,346,307,Right-Handed,One-Handed Backhand,1
+4997,Daniel Cox,31,1986.06.18,185,165.0,31,"Beziers, France",2002.0,486,280,Right-Handed,Two-Handed Backhand,1
+5007,Neil Pauffley,20,1997.10.20,188,150.0,39,"Moscow, Russia",2014.0,33,37,Right-Handed,Two-Handed Backhand,2
+5087,Markus Eriksson,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+5089,Fred Simonsson,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+5091,Andre Goransson,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+5093,Isak Arvidsson,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+5143,Thai-Son Kwiatkowski,21,1996.07.04,185,180.0,120,"Los Angeles, CA, USA",2014.0,11,19,Right-Handed,Two-Handed Backhand,1
+5145,Austin Krajicek,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+5159,William Blumberg,28,1989.01.24,188,185.0,221,"Townsville, Australia",2012.0,5,15,Left-Handed,One-Handed Backhand,1
+5165,Christopher Eubanks,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+5171,Evan King,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+5245,Matteo Viola,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+5247,Rocco Savin,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+5253,Nino Serdarusic,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+5257,Walter Trusendi,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+5323,Catalin-Ionut Gard,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+5327,Pol Wattanakul,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+5331,Ante Pavic,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+5333,Trent Bryde,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+5335,Andrew Carter,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+5389,Antoine Bellier,18,1999.02.17,180,152.0,208,"Sydney, Australia",2015.0,2,5,Right-Handed,Two-Handed Backhand,1
+5397,Adrian Bodmer,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+5409,Marc-Andrea Huesler,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+5411,Yann Marti,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+5449,Rudolf Molleker,27,1989.12.24,188,190.0,44,"Orange, CA, USA",2012.0,122,116,Right-Handed,Two-Handed Backhand,1
+5493,Jason Jeremy Hildebrandt,21,1996.02.11,198,179.0,65,"Moscow, Russia",2014.0,29,31,Right-Handed,One-Handed Backhand,2
+5565,Lenny Hampel,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+5569,Hubert Hurkacz,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+5573,Jurij Rodionov,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+5633,Evan Song,29,1987.12.30,175,160.0,130,"Milwaukee, WI, USA",2006.0,36,70,Right-Handed,Two-Handed Backhand,0
+5637,Sadio Doumbia,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+5641,Alan Raul Sau Franco,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+5643,Hans Hach Verdugo,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+5719,Edan Leshem,29,1987.12.26,183,159.0,74,"Volgograd, Russia",2006.0,117,151,Right-Handed,Two-Handed Backhand,1
+5733,Alexios Halebian,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+5763,Nicholas Reyes,21,1996.05.19,188,192.0,58,"Suwon, South Korea",2014.0,51,43,Right-Handed,Two-Handed Backhand,1
+5765,Connor Farren,32,1985.02.23,191,176.0,275,"Moscow, Russia",2004.0,10,28,Right-Handed,Two-Handed Backhand,1
+5767,Alex Rybakov,21,1996.11.14,185,174.0,48,"Zagreb, Croatia",2013.0,79,86,Right-Handed,One-Handed Backhand,0
+5769,Damon Gooch,30,1987.10.19,193,187.0,471,"Vuyyuru, India",2012.0,5,5,Right-Handed,Two-Handed Backhand,0
+5771,Ryan Goetz,28,1989.11.11,175,152.0,87,"Chisinau, Moldova",2008.0,30,42,Right-Handed,Two-Handed Backhand,1
+5773,Danny Thomas,34,1983.06.04,185,176.0,70,"La Roda (Albacete), Spain",2002.0,275,321,Right-Handed,Two-Handed Backhand,1
+5775,Frank Moser,23,1994.11.08,188,169.0,137,"Chennai, India",,12,13,Right-Handed,One-Handed Backhand,2
+5777,Ulises Blanch,28,1988.12.24,183,176.0,32,"Zagreb, Croatia",2006.0,38,38,Right-Handed,Two-Handed Backhand,1
+5779,Patrick Kypson,27,1990.06.30,183,172.0,75,"Belgrade, Serbia",2007.0,75,99,Right-Handed,Two-Handed Backhand,1
+5781,Wil Spencer,27,1990.11.24,183,168.0,115,"Lourinhã, Portugal",2008.0,28,47,Right-Handed,Two-Handed Backhand,1
+5869,Brayden Schnur,29,1988.01.17,188,177.0,23,"Barcelona, Spain",2007.0,157,178,Left-Handed,Two-Handed Backhand,2
+5909,Samuel Monette,23,1994.05.31,183,172.0,124,"Fortaleza, Brazil",2011.0,19,31,Left-Handed,Two-Handed Backhand,2
+5913,Raheel Manji,25,1992.05.20,175,154.0,30,"Sarajevo, Bosnia-Herzegovina",2011.0,76,66,Right-Handed,Two-Handed Backhand,1
+5923,Kelsey Stevenson,29,1988.07.12,185,174.0,345,"Belgrade, Serbia",,1,2,Right-Handed,Two-Handed Backhand,1
+5925,Benjamin Sigouin,20,1997.01.14,185,168.0,418,"Chennai, India",,0,0,Right-Handed,Two-Handed Backhand,1
+5927,Filip Peliwo,30,1987.09.20,198,212.0,290,"Sibenik, Croatia",,6,18,Right-Handed,One-Handed Backhand,1
+5929,Pavel Krainik,26,1991.01.11,173,150.0,340,"Cernusco sul Naviglio, Italy",,0,1,Right-Handed,Two-Handed Backhand,1
+5933,Antoine Leduc,27,1990.10.16,170,143.0,343,"Tokyo, Japan",,2,9,Right-Handed,Two-Handed Backhand,1
+6063,John Mcnally,18,1998.12.22,183,170.0,141,"Oslo, Norway",2015.0,9,12,Right-Handed,Two-Handed Backhand,1
+6165,Petros Chrysochos,21,1996.02.11,198,179.0,65,"Moscow, Russia",2014.0,29,31,Right-Handed,Two-Handed Backhand,2
+6179,Dominik Koepfer,29,1988.09.28,198,196.0,6,"Medjugorje, Bosnia-Herzegovina",2005.0,435,232,Right-Handed,Two-Handed Backhand,2
+6185,Kevin King,28,1989.07.11,191,176.0,143,"Bratislava, Slovakia",2007.0,117,122,Left-Handed,Two-Handed Backhand,1
+6187,Borna Gojo,25,1992.07.04,183,170.0,116,"New Delhi, India",2008.0,22,19,Right-Handed,Two-Handed Backhand,1
+6191,Gonzalo Escobar,34,1983.08.14,180,163.0,71,"Taipei, Chinese Taipei",2001.0,161,222,Right-Handed,One-Handed Backhand,1
+6195,Nicolaas Scholtz,32,1985.02.23,191,176.0,275,"Moscow, Russia",2004.0,10,28,Right-Handed,Two-Handed Backhand,1
+6201,Facundo Mena,28,1989.11.11,175,152.0,87,"Chisinau, Moldova",2008.0,30,42,Right-Handed,Two-Handed Backhand,1
+6203,Skander Mansouri,34,1983.06.04,185,176.0,70,"La Roda (Albacete), Spain",2002.0,275,321,Right-Handed,Two-Handed Backhand,1
+6383,JC Aragone,32,1984.12.08,196,172.0,125,"Celle, Germany",2002.0,60,93,Right-Handed,Two-Handed Backhand,0
+6519,Ugo Humbert,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+6523,Roberto Ortega-Olmedo,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+6525,Bernabe Zapata Miralles,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+6527,Hugo Schott,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+6533,Axel Michon,19,1998.02.01,183,174.0,167,"Skopje, Macedonia",2013.0,5,15,Right-Handed,Two-Handed Backhand,2
+6535,Guillermo Duran,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+6567,Evgeny Tyurnev,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+6593,Mikhail Elgin,28,1989.01.24,188,185.0,221,"Townsville, Australia",2012.0,5,15,Left-Handed,One-Handed Backhand,1
+6597,Ivan Nedelko,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+6601,Ivan Gakhov,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+6603,Evgeny Karlovskiy,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+6605,Alexander Vasilenko,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
+6609,Filip Horansky,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+6645,Mate Pavic,29,1988.11.07,180,157.0,38,"Kiev, Ukraine",2006.0,216,196,Right-Handed,Two-Handed Backhand,1
+6673,Chuhan Wang,19,1998.01.20,188,170.0,79,"Hyattsville, MD, USA",2015.0,9,29,Right-Handed,Two-Handed Backhand,2
+6675,Zihao Xia,32,1985.01.02,183,183.0,5,"Medjugorje, Bosnia-Herzegovina",2004.0,218,151,Right-Handed,Two-Handed Backhand,1
+6679,Fajing Sun,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+6681,Rigele Te,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+6685,Takuto Niki,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,One-Handed Backhand,0
+6687,Oliver Marach,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,Two-Handed Backhand,1
+6705,Zhizhen Zhang,24,1993.09.03,185,180.0,5,"Wiener Neustadt, Austria",2011.0,171,109,Right-Handed,Two-Handed Backhand,1
+6735,Ze Zhang,26,1991.03.18,188,174.0,81,"Schiltigheim, France",2010.0,30,51,Right-Handed,Two-Handed Backhand,2
+6757,Andre Sa,25,1992.05.07,185,185.0,47,"Shreveport, LA, USA",2007.0,93,129,Right-Handed,Two-Handed Backhand,2
+6759,Yusuke Takahashi,33,1984.09.05,178,160.0,150,"Kanagawa, Japan",2003.0,53,87,Right-Handed,Two-Handed Backhand,1
+6769,Yan Bai,31,1986.05.21,178,168.0,234,"Lubeck, Germany",2004.0,63,102,Right-Handed,Two-Handed Backhand,2
+6927,Kaito Uesugi,24,1993.08.11,188,181.0,228,"Williamstown, Australia",,2,3,Right-Handed,One-Handed Backhand,0
+6929,Yosuke Watanuki,24,1993.07.19,183,175.0,111,"Pittsburgh, PA, USA",2012.0,14,22,Right-Handed,One-Handed Backhand,1
+6941,Sho Shimabukuro,35,1982.06.25,183,160.0,84,"Moscow, Russia",1999.0,492,398,Right-Handed,Two-Handed Backhand,1
+7163,Zizou Bergs,33,1984.03.18,193,180.0,22,"Denver, CO, USA",2004.0,214,193,Right-Handed,Two-Handed Backhand,2
